@@ -1,0 +1,4 @@
+git config --global user.name "XmRouter"
+git config --global user.email "XmRuter@github.com"
+
+git remote add origin https://github.com/XmRouter/234.git
